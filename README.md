@@ -2,6 +2,11 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.4.
 
+## Get Started
+  1. Clone this project to your local workspace: `git clone https://github.com/esmikl/sample-scss-setup.git`
+  2. Run `npm install` to install dependencies.
+  3. Run `ng serve` to start the dev server.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
